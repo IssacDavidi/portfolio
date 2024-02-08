@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Issac Davidi</h1>
-<h3 align="center">A passionate data analyst from Israel</h3>
+<h1 align="center">Welcome!</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 👨‍💻 All of my projects are available at https://github.com/IssacDavidi/portfolio
 
